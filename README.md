@@ -4,7 +4,7 @@
 
 - 🔥 Student in Web Developer in <a href="https://www.betrybe.com/">Trybe</a>.
 
-- 🔭 I’m currently locking for working.
+- 🔭 I’m currently locking for a job.
 
 <br><br>
 
