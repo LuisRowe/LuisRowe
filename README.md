@@ -24,14 +24,14 @@
 
 <br><br>
 
-<!-- ## ⚙️ &nbsp;GitHub Analytics
+## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
 <!-- <img width="530em" src="https://github-readme-stats.vercel.app/api?username=LuisRowe&show_icons=true&theme=vision-friendly-dark" alt="Luis Rowe's stats"/> -->
-<!-- <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisRowe&layout=compact&theme=vision-friendly-dark" alt="LuisRowe's most languages"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisRowe&layout=compact&theme=vision-friendly-dark" alt="LuisRowe's most languages"/>
 </p>
 
-<br><br> -->
+<br><br>
 
 ## Contact
 
