@@ -35,6 +35,7 @@
 
 ## Contact
 
+<p>Email: luisfelipe.apoloniorowe@gmail.com</p>
 <p align="left" style="background:yellow">
 <a href="https://www.linkedin.com/in/luis-rowe/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-LuisRowe-05122A?style=flat&logo=linkedin" alt="linkedin"/>
